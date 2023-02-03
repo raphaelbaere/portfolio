@@ -1,0 +1,56 @@
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0F1624;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+nav {
+    display: flex;
+    gap: 10px;
+}
+
+nav a {
+    color: #FFFF;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo p {
+    color: white;
+    font-family: 'Poppins';
+}
+
+#img-links {
+    display: flex;
+    gap: 15px;
+}
+
+#header-container {
+    display: flex;
+    width: 90%;
+    height: 15%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.progress-bar {
+    position: sticky;
+    top: 50px;
+    height: 10px;
+    background: #fdfdfd;
+    transform-origin: 0%;
+  }
