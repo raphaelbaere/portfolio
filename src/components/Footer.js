@@ -5,13 +5,13 @@ import { AiFillLinkedin } from 'react-icons/ai'
 
 function Footer() {
   return (
-    <footer>
+    <footer id="footer">
         <div class="contact-info">
-            <h3>Send me a message:</h3>
+            <h3>Me mande uma mensagem:</h3>
             <p>21936184249</p>
         </div>
         <div class="contact-info">
-            <h3>Send me a email:</h3>
+            <h3>Me mande um email:</h3>
             <p>raphaelbaere@id.uff.br</p>
         </div>
         <div class="social-media">

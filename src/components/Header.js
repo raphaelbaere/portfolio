@@ -12,9 +12,10 @@ function Header() {
           <p>Portfolio</p>
         </div>
         <nav>
-          <a href="#">Projects</a>
-          <a href="#">Technologies</a>
-          <a href="#">About me</a>
+          <a href="#projects">Projetos</a>
+          <a href="#skills">Habilidades</a>
+          <a href="#about-me">Sobre mim</a>
+          <a href="#footer">Contato</a>
         </nav>
         <div id="img-links">
           <a href="https://github.com/raphaelbaere" target="_blank" rel="noreferrer">

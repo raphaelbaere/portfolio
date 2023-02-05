@@ -2,7 +2,16 @@
     width: 100%;
     background-image: linear-gradient(#131b55,#080e41, #020627, #0e144b, #242c7c, #131b55, #080e41);
     height: 100vh;
-    padding: 100px;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#hero img {
+    width: 35%;
+    height: 80%;
+    border-radius: 50%;
+    margin-left: 10px;
 }
 
 #hero h1 {
@@ -11,6 +20,12 @@
     font-weight: 600;
     color: white;
     font-size: 58px;
+    width: 100%;
+}
+
+.hero-container {
+    width: 60%;
+    margin-left: 50px;
 }
 
 #hero p {

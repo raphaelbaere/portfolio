@@ -4,7 +4,7 @@ import '../styles/AboutMe.css';
 function AboutMe() {
   return (
     <div id="about-me">
-        <h1>About me</h1>
+        <h1>Sobre mim</h1>
         <div id="timeline">
           <div id="line"></div>
           <div id="time-years-container">

@@ -4,8 +4,8 @@ import Skills from './Skills'
 
 function Technologies() {
   return (
-    <div id="technologies">
-        <h1>Skills</h1>
+    <div id="skills">
+        <h1>Habilidades</h1>
         <div id="hard-skills">
             <h2>HardSkills</h2>
             <div className='skills-container'>
