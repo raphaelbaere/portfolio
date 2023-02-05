@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/app-toot-name/static/css/main.82304d6a.css",
+    "main.js": "/app-toot-name/static/js/main.2858d76d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/app-toot-name/static/js/787.1ed0c42c.chunk.js",
+    "static/media/coinweb.png": "/app-toot-name/static/media/coinweb.9d3ab9853fa129d684ee.png",
+    "static/media/trymer.png": "/app-toot-name/static/media/trymer.2ba685feee3584e5d8d0.png",
+    "static/media/myfoto.jpg": "/app-toot-name/static/media/myfoto.101dc4adaa2fed7cea8c.jpg",
+    "index.html": "/app-toot-name/index.html",
+    "main.82304d6a.css.map": "/app-toot-name/static/css/main.82304d6a.css.map",
+    "main.2858d76d.js.map": "/app-toot-name/static/js/main.2858d76d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/app-toot-name/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82304d6a.css",
+    "static/js/main.2858d76d.js"
+  ]
+}
