@@ -19,11 +19,11 @@ function Hero() {
       <img src={myFoto} alt="Raphael Baere" />
       <div class="hero-container">
         <h1 id="title"> </h1>
-        <p>Tenho 21 anos, nascido no Brasil, no estado do Rio de Janeiro, mais especificamente na cidade de Belford Roxo. Atualmente, resido em Nova Iguaçu. Sou alegre, comunicativo, risonho e esforçado!</p>
-        <p>Desde pequeno, sempre me ví rodeado pela tecnologia, e ela, sempre me fascinou. Nunca fui um garoto que brincava na rua, mas eu adorava brincar no meu computador. E foi assim, até hoje. Atualmente, transformei minha paixão no meu trabalho, algo de que posso me orgulhar.</p>
-        <p>O caminho até aqui não foi fácil. Quando fui escolher meu curso na faculdade, visualizei apenas as com mais prestígio e fui com sede ao pote em Odontologia. Com o tempo, fui percebendo que aquela área não era minha paixão.</p>
-        <p>E assim sendo, uma vez que realizei esse fato, não parei por nada até estar estudando algo que eu verdadeiramente estivesse apaixonado. E eu conseguí isso com a programação.</p>
-        <p>Na Trybe, pude estudar o que eu amo em uma escola excepcional. Hoje, me orgulho da minha caminhada.</p>
+        <p>Tenho <strong>21 anos</strong>, nascido no Brasil, no estado do <strong>Rio de Janeiro</strong>, mais especificamente na cidade de Belford Roxo. Atualmente, resido em Nova Iguaçu.</p>
+        <p>Desde pequeno, sempre me vi rodeado pela tecnologia, e ela, sempre me fascinou. Atualmente, transformei minha <strong>paixão</strong> no meu <strong>trabalho</strong>, algo de que posso me orgulhar.</p>
+        <p>O <strong>caminho</strong> até aqui não foi fácil. Quando fui escolher meu <strong>curso</strong> na faculdade, visualizei apenas as áreas com mais prestígio e acabei entrando no “mundo” da <strong>Odontologia</strong>. Com o tempo, fui percebendo que não me identificava tanto pelo curso.</p>
+        <p>Sendo assim, quando tive essa percepção, procurei incansavelmente estudar algo que eu estivesse verdadeiramente <strong>apaixonado</strong>. E eu consegui isso com a <strong>programação</strong>.</p>
+        <p>Na <strong>Trybe</strong>, pude estudar o que eu amo em uma escola excepcional. Hoje, me orgulho da minha <strong>caminhada</strong>.</p>
       </div>
     </section>
   )
