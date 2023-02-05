@@ -13,6 +13,12 @@
     color: white;
     font-family: 'Poppins';
     font-weight: 600;
+}
+
+#about-me p {
+    color: #BCBCBC;
+    font-family: 'Poppins';
+    font-style: italic;
     margin-bottom: 100px;
 }
 
@@ -23,16 +29,22 @@
     flex-wrap: wrap;
 }
 
-.time-dot {
-    width: 30px;
-    height: 30px;
+#time-dot-container div {
+    width: 40px;
+    height: 40px;
     border-radius: 100%;
     background-color: white;
+    cursor: pointer;
+}
+
+#time-dot-container div:hover {
+    width: 45px;
+    height: 45px;
 }
 
 #line {
     position: absolute;
-    top: 2499px;
+    top: 2588px;
     border-radius: 50px;
     width: 85%;
     height: 10px;

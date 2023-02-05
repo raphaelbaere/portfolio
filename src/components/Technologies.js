@@ -16,6 +16,7 @@ function Technologies() {
                 <Skills skill={'SHELL'} percentage={'40'} />
                 <Skills skill={'JEST'} percentage={'85'} />
                 <Skills skill={'React Testing Library'} percentage={'85'} />
+                <Skills skill={'Git & Github'} percentage={'90'} />
             </div>
         </div>
         <div id="soft-skills">

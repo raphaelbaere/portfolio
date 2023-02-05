@@ -13,13 +13,13 @@ import Footer from './components/Footer';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Header />
-    <ScrollBar />
-    <Hero />
-    <Projects />
-    <Technologies />
-    <AboutMe />
-    <Footer />
+      <Header />
+      <ScrollBar />
+      <Hero />
+      <Projects />
+      <Technologies />
+      <AboutMe />
+      <Footer />
   </React.StrictMode>
 );
 

@@ -1,10 +1,12 @@
 import React from 'react';
 import '../styles/AboutMe.css';
+import YearsModal from './YearsModal';
 
 function AboutMe() {
   return (
     <div id="about-me">
         <h1>Sobre mim</h1>
+        <p>Clique nos pontos do tempo para saber mais!</p>
         <div id="timeline">
           <div id="line"></div>
           <div id="time-years-container">
@@ -14,10 +16,10 @@ function AboutMe() {
             <h4>2023</h4>
           </div>
           <div id="time-dot-container">
-          <div className='time-dot'></div>
-          <div className='time-dot'></div>
-          <div className='time-dot'></div>
-          <div className='time-dot'></div>
+          <YearsModal year="2019" yearDesc='Começo da faculdade de Odontologia na Universidade Federal Fluminense'/>
+          <YearsModal year="2021" yearDesc='Iniciei os estudos em programação e me apaixonei.'/>
+          <YearsModal year="2022" yearDesc='Conhecí a Trybe. Me encantei pelo curso e decidí trancar a Odontologia e entrar de cabeça no mundo da programação.'/>
+          <YearsModal year="2023" yearDesc='Sinto que fiz a escolha certa. Aprendo todo dia mais e mais e não planejo parar tão cedo.'/>
           </div>
           <div id="time-description-container">
             <p>Começo da faculdade de Odontologia na Universidade Federal Fluminense</p>
