@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.82304d6a.css",
-    "main.js": "/static/js/main.5fbb5c24.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/coinweb.png": "/static/media/coinweb.9d3ab9853fa129d684ee.png",
-    "static/media/trymer.png": "/static/media/trymer.2ba685feee3584e5d8d0.png",
-    "static/media/myfoto.jpg": "/static/media/myfoto.101dc4adaa2fed7cea8c.jpg",
-    "index.html": "/index.html",
-    "main.82304d6a.css.map": "/static/css/main.82304d6a.css.map",
-    "main.5fbb5c24.js.map": "/static/js/main.5fbb5c24.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.82304d6a.css",
+    "main.js": "/portfolio/static/js/main.a33a252d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/coinweb.png": "/portfolio/static/media/coinweb.9d3ab9853fa129d684ee.png",
+    "static/media/trymer.png": "/portfolio/static/media/trymer.2ba685feee3584e5d8d0.png",
+    "static/media/myfoto.jpg": "/portfolio/static/media/myfoto.101dc4adaa2fed7cea8c.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.82304d6a.css.map": "/portfolio/static/css/main.82304d6a.css.map",
+    "main.a33a252d.js.map": "/portfolio/static/js/main.a33a252d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82304d6a.css",
-    "static/js/main.5fbb5c24.js"
+    "static/js/main.a33a252d.js"
   ]
 }
