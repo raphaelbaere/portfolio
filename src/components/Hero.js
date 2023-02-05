@@ -6,7 +6,7 @@ import myFoto from '../images/myfoto.jpg'
 function Hero() {
     useEffect(() => {
         new Typewriter('#title', {
-            strings: ['Olá, eu sou o Raphael!', 'Você está aqui faz um tempo, hein!', 'Me manda uma mensagem, vai!', 'Você vai gostar de mim!'],
+            strings: ['Olá, eu sou o Raphael!', 'Você está aqui faz um tempo, hein!', 'Entre em contato!', 'Você vai gostar de mim!'],
             autoStart: true,
             pauseFor: 15000,
             delay: 110,
