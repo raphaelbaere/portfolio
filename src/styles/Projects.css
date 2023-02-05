@@ -1,0 +1,17 @@
+#projects {
+    width: 100%;
+    background-image: linear-gradient(#131b55,#080e41, #020627, #0e144b, #242c7c, #131b55, #080e41);
+    height: auto;
+    padding: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 125px;
+}
+
+#projects-title {
+    font-size: 32px;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 600;
+    width: 100%;
+}

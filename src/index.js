@@ -5,6 +5,10 @@ import reportWebVitals from './reportWebVitals';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import ScrollBar from './components/ScrollBar';
+import Projects from './components/Projects';
+import Technologies from './components/Technologies';
+import AboutMe from './components/AboutMe';
+import Footer from './components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,6 +16,10 @@ root.render(
     <Header />
     <ScrollBar />
     <Hero />
+    <Projects />
+    <Technologies />
+    <AboutMe />
+    <Footer />
   </React.StrictMode>
 );
 

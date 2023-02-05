@@ -1,7 +1,7 @@
 #hero {
     width: 100%;
     background-image: linear-gradient(#131b55,#080e41, #020627, #0e144b, #242c7c, #131b55, #080e41);
-    height: 792px;
+    height: 100vh;
     padding: 100px;
 }
 

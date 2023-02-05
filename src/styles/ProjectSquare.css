@@ -1,0 +1,46 @@
+.project-squares {
+    width: 300px;
+    height: 450px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 2px solid #E5E5E5;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 10px, 10px, 10000px, #E5E5E5;
+}
+
+#project-square-img {
+    width: 100%;
+    border-top-left-radius: 11px;
+}
+
+.project-squares h4 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+.project-squares div {
+    width: 150px;
+    height: 2px;
+    background-image: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    border-radius: 80px;
+    margin: 7px auto;
+}
+
+.project-squares p {
+    padding: 12px;
+    font-size: 14px;
+    color: #BCBCBC;
+    font-family: 'Poppins';
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.project-squares a {
+    padding: 10px;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+}

@@ -7,7 +7,7 @@ function Hero() {
         new Typewriter('#title', {
             strings: ['Olá, eu sou o Raphael!', 'Você está aqui faz um tempo, hein!', 'Me manda uma mensagem, vai!', 'Você vai gostar de mim!'],
             autoStart: true,
-            pauseFor: 80000,
+            pauseFor: 10000,
             delay: 110,
             loop: true,
         })

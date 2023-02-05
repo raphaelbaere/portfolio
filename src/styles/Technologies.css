@@ -1,0 +1,30 @@
+#technologies {
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(#131b55,#080e41, #020627, #0e144b, #242c7c, #131b55, #080e41);
+    padding: 100px;
+    padding-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#technologies h1 {
+    color: white;
+    width: 100%;
+    font-family: 'Poppins';
+    font-size: 32px;
+    font-weight: 600;
+}
+
+#technologies h2 {
+    color: white;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+.skills-container {
+    width: 500px;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.2);
+}

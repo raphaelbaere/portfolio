@@ -17,10 +17,10 @@ function Header() {
           <a href="#">About me</a>
         </nav>
         <div id="img-links">
-          <a href="#">
+          <a href="https://github.com/raphaelbaere" target="_blank" rel="noreferrer">
             <BsGithub size={'30px'} color={'white'} />
           </a>
-          <a href="#">
+          <a href="https://linkedin.com/in/raphael-baere" target="_blank" rel="noreferrer">
             <AiFillLinkedin size={'30px'} color={'white'} />
           </a>
         </div>
