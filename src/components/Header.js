@@ -2,8 +2,11 @@ import '../styles/Header.css';
 import { BsGithub } from 'react-icons/bs';
 import { AiFillLinkedin } from 'react-icons/ai'
 import { GiAbstract014 } from 'react-icons/gi';
+import AOS from 'aos';
+import 'aos/dist/aos.css'; 
 
 function Header() {
+AOS.init();
   return (
     <header>
       <div id="header-container">

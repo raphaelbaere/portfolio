@@ -23,9 +23,9 @@ export default function BasicModal(props) {
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
 
-  const showTechs = (techs) => {
+  const showTechs = (techs, index) => {
     return techs.map((tech) => {
-      return (<p>{tech}</p>)
+      return (<p key={ index }>{tech}</p>)
     })
   }
 

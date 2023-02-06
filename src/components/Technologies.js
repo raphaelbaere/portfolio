@@ -6,7 +6,7 @@ function Technologies() {
   return (
     <div id="skills">
         <h1>Habilidades</h1>
-        <div id="hard-skills">
+        <div data-aos="fade-right" id="hard-skills">
             <h2>HardSkills</h2>
             <div className='skills-container'>
                 <Skills skill={'HTML'} percentage={'80'} />
@@ -19,7 +19,7 @@ function Technologies() {
                 <Skills skill={'Git & Github'} percentage={'90'} />
             </div>
         </div>
-        <div id="soft-skills">
+        <div data-aos="fade-left" id="soft-skills">
             <h2>SoftSkills</h2>
             <div className='skills-container'>
             <Skills skill={'Comunicação'} percentage={'90'} />

@@ -12,12 +12,11 @@ function Hero() {
             delay: 110,
             loop: true,
         })
-        
     }, [])
   return (
     <section id="hero">
-      <img src={myFoto} alt="Raphael Baere" />
-      <div class="hero-container">
+      <img data-aos="zoom-in" src={myFoto} alt="Raphael Baere" />
+      <div data-aos="fade-left" class="hero-container">
         <h1 id="title"> </h1>
         <p>Tenho <strong>21 anos</strong>, nascido no Brasil, no estado do <strong>Rio de Janeiro</strong>, mais especificamente na cidade de Belford Roxo. Atualmente, resido em Nova Iguaçu.</p>
         <p>Desde pequeno, sempre me vi rodeado pela tecnologia, e ela, sempre me fascinou. Atualmente, transformei minha <strong>paixão</strong> no meu <strong>trabalho</strong>, algo de que posso me orgulhar.</p>
