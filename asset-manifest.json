@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d82cf09.css",
-    "main.js": "/static/js/main.4f12235f.js",
+    "main.css": "/static/css/main.1322fd1f.css",
+    "main.js": "/static/js/main.66a68beb.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/coinweb.png": "/static/media/coinweb.9d3ab9853fa129d684ee.png",
+    "static/media/detectivePixel.png": "/static/media/detectivePixel.3627fa789a552504b17b.png",
+    "static/media/recipesapp.png": "/static/media/recipesapp.2127ea9e616889bf5d0a.png",
     "static/media/trymer.png": "/static/media/trymer.2ba685feee3584e5d8d0.png",
     "static/media/myfoto.jpg": "/static/media/myfoto.101dc4adaa2fed7cea8c.jpg",
+    "static/media/tryvia.png": "/static/media/tryvia.fd83d3208feacbeed86b.png",
     "index.html": "/index.html",
-    "main.2d82cf09.css.map": "/static/css/main.2d82cf09.css.map",
-    "main.4f12235f.js.map": "/static/js/main.4f12235f.js.map",
+    "main.1322fd1f.css.map": "/static/css/main.1322fd1f.css.map",
+    "main.66a68beb.js.map": "/static/js/main.66a68beb.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d82cf09.css",
-    "static/js/main.4f12235f.js"
+    "static/css/main.1322fd1f.css",
+    "static/js/main.66a68beb.js"
   ]
 }
