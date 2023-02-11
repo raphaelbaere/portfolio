@@ -131,3 +131,41 @@
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+
+@media screen and (max-width: 800px) {
+    #projects {
+    width: 100%;
+    background-image: linear-gradient(#131b55,#080e41, #020627, #0e144b, #242c7c, #131b55, #080e41);
+    height: auto;
+    padding: 30px;
+}
+
+#projects-title {
+    font-size: 30px;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 600;
+    width: 100%;
+    margin-bottom: -60px;
+}
+
+#repo-link {
+    position: absolute;
+    top: 450px;
+    right: 220px;
+    padding: 2px;
+    background-color: white;
+    border-radius: 15px;
+    color: #242c7c;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+#site-link {
+    padding: 2px;
+}
+
+#right-arrow, #left-arrow {
+    padding: 20px;
+}
+}
