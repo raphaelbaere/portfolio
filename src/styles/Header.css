@@ -63,7 +63,7 @@ nav a:hover {
 
   @media screen and (max-width: 800px) {
     nav a {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     nav a:hover {
@@ -71,8 +71,12 @@ nav a:hover {
         transition: 0.2s;
     }
 
+    nav {
+        margin-left: -15px;
+    }
+
     #logo {
-        display: flex;
+        display: none;
         justify-content: center;
         align-items: center;
         font-size: 13px;
