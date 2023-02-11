@@ -22,10 +22,10 @@ AOS.init();
         </nav>
         <div id="img-links">
           <a href="https://github.com/raphaelbaere" target="_blank" rel="noreferrer">
-            <BsGithub size={'30px'} color={'white'} />
+            <BsGithub id="github" size={'30px'} color={'white'} />
           </a>
           <a href="https://linkedin.com/in/raphael-baere" target="_blank" rel="noreferrer">
-            <AiFillLinkedin size={'30px'} color={'white'} />
+            <AiFillLinkedin id="linkedin" size={'30px'} color={'white'} />
           </a>
         </div>
       </div>

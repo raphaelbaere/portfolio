@@ -60,3 +60,21 @@ nav a:hover {
     background: #fdfdfd;
     transform-origin: 0%;
   }
+
+  @media screen and (max-width: 800px) {
+    nav a {
+        font-size: 10px;
+    }
+
+    nav a:hover {
+        font-size: 13px;
+        transition: 0.2s;
+    }
+
+    #logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+    }
+}

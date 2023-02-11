@@ -45,4 +45,45 @@
     margin-top: 1%;
   }
   
-  
+  @media screen and (max-width: 800px) {
+
+    #hero {
+        clear: both;
+        display: block;
+        margin-bottom: -100px;
+    }
+
+    #hero img {
+        width: 40%;
+        height: 50%;
+        border-radius: 50%;
+        margin-left: 10px;
+        float: left;
+        margin-top: 40px;
+    }
+
+    #hero h1 {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        color: white;
+        font-size: 20px;
+        width: 100%;
+        margin-left: -20px;
+    }
+    .hero-container {
+    width: 52%;
+    float: right;
+    margin-left: -10px;
+    }
+
+    #hero p {
+        color: #BCBCBC;
+        font-family: 'Poppins';
+        font-style: italic;
+        width: 90%;
+        font-size: 9.9px;
+        shape-outside: circle();
+        margin-left: -20px;
+    }
+  }
