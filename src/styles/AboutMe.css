@@ -82,3 +82,26 @@
     width: 30%;
     margin-top: 10px;
 }
+
+@media screen and (max-width: 800px) {
+    #about-me {
+        padding: 30px;
+        overflow: hidden;
+    }
+
+    #about-me h1 {
+        font-size: 30px;
+    }
+
+    #about-me p {
+        font-size: 14px;
+    }
+
+    #time-dot-container div {
+        width: 10px;
+        height: 10px;
+        border-radius: 100%;
+        background-color: white;
+        cursor: pointer;
+    }
+}

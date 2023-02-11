@@ -28,3 +28,20 @@
     height: auto;
     background-color: rgba(0, 0, 0, 0.2);
 }
+
+@media screen and (max-width: 800px) {
+    #skills {
+        padding: 30px;
+    }
+    #skills h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .skills-container {
+        width: 370px;
+    }
+    #skills h2 {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+}
