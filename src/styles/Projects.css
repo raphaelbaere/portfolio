@@ -168,4 +168,12 @@
 #right-arrow, #left-arrow {
     padding: 20px;
 }
+
+#right-arrow:hover, #left-arrow:hover {
+    padding: 20px;
+}
+
+#site-link:hover, #repo-link:hover {
+    padding: 5px;
+}
 }
