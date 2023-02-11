@@ -95,6 +95,7 @@
 
     #about-me p {
         font-size: 14px;
+        margin: 0px;
     }
 
     #time-dot-container div {
@@ -103,5 +104,16 @@
         border-radius: 100%;
         background-color: white;
         cursor: pointer;
+        display: none;
+    }
+
+    #line {
+        top: 2500px;
+        height: 5px;
+        display: none;
+    }
+
+    #time-years-container {
+        display: none;
     }
 }
