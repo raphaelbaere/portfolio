@@ -50,7 +50,7 @@
     #hero {
         clear: both;
         display: block;
-        margin-bottom: -250px;
+        margin-bottom: -200px;
     }
 
     #hero img {
@@ -86,9 +86,5 @@
         font-size: 9.9px;
         shape-outside: circle();
         margin-left: -10px;
-    }
-
-    #logo {
-        display: none;
     }
   }
