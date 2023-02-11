@@ -81,4 +81,9 @@ nav a:hover {
         align-items: center;
         font-size: 13px;
     }
+
+    #img-links {
+        display: flex;
+        gap: 5px;
+    }
 }
