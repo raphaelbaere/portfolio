@@ -98,22 +98,74 @@
         margin: 0px;
     }
 
+    #time-description-container {
+        flex-direction: column;
+        margin-top: -500px;
+        width: 100%;
+        gap: 0px;
+    }
+
+    #time-description-container p:first-child {
+        align-self: flex-end;
+        margin-top: 70px;
+        text-align: right;
+    }
+
+    #time-description-container p:nth-child(3) {
+        align-self: flex-end;
+        margin-top: 20px;
+        text-align: right;
+    }
+
+    #time-description-container p:nth-child(2) {
+        margin-top: -20px;
+        text-align: left;
+    }
+
+    #time-description-container p:last-child {
+        margin-top: -90px;
+        text-align: left;
+    }
+
     #time-dot-container div {
-        width: 10px;
-        height: 10px;
+        width: 20px;
+        height: 20px;
         border-radius: 100%;
         background-color: white;
         cursor: pointer;
-        display: none;
     }
 
-    #line {
-        top: 2500px;
-        height: 5px;
-        display: none;
+    #time-dot-container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 436px;
+        justify-content: center;
+        align-items: space-between;
+        gap: 86px;
+        margin-top: -470px;
     }
 
     #time-years-container {
-        display: none;
+        display: flex;
+        flex-direction: column;
+        height: 500px;
+    }
+
+    #time-years-container h4:first-child {
+        align-self: flex-end;
+        text-align: center;
+    }
+
+    #time-years-container h4:nth-child(3) {
+        align-self: flex-end;
+        text-align: center;
+    }
+
+    #line {
+        top: 2550px;
+        left: 49.5vw;
+        height: 45%;
+        width: 5px;
     }
 }
