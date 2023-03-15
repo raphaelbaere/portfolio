@@ -11,7 +11,7 @@ This is a personal portfolio website project made by me using React, JavaScript,
 
 ## Usage
 
-You can access the app online at [INSERT YOUR ONLINE LINK HERE](https://example.com).
+You can access the app online at [https://raphaelbaere.github.io/](https://example.com).
 
 To run the app locally:
 
