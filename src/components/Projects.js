@@ -6,10 +6,23 @@ import BasicModal from './BasicModal';
 import detective from '../images/detectivePixel.png';
 import recipesApp from '../images/recipesapp.png';
 import tryvia from '../images/tryvia.png';
+import bentevi from '../images/bentevi.png';
 
 function Projects() {
   const [index, setIndex] = useState(0);
   const sitesArray = [
+    {
+      srcImage: bentevi,
+      borderColor: 'white',
+      backgroundColor: 'white',
+      color: 'black',
+      srcRepo: 'https://github.com/raphaelbaere/bentevi',
+      srcSite: 'https://bentevi.netlify.app',
+      siteTitle: 'Bentevi',
+      siteDesc: 'O Bentevi foi criado para simular uma rede social. Conta com funcionalidades como adicionar posts, curtir, comentar, excluir.. Analisar seu perfil e o perfil de outros usuários.',
+      siteTech: ['React', 'HTML', 'CSS', 'Material UI', 'JavaScript'],
+     } 
+  ,
     {
       srcImage: trymer,
       borderColor: 'white',
